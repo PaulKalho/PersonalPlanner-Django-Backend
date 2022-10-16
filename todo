@@ -1,7 +1,6 @@
+
+# BUG: Beim ersten öfnnen von Add Task, wenn man den Haken auf keine prio setzt und dann ein datum auswählen will, so wird immer das standart datum ausgewählt
+    # Allgemein Ansatz ändern wie man die Dates auswählt -> DATE OBJEKT IN DJANGO EINTRAGEN KÖNNEN
+    # EVTL anderer Datepicker
 # Keine Gruppe Delete Icon umsetzen
-# Sort Table Function
-    # Priorisierung mit Farben umsetzen
-# Edit Task
 # Done Component umsetzten
-# SORTIEREN NACH GRUPPEN 
-# USABILITY
